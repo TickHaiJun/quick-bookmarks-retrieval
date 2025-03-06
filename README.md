@@ -1,7 +1,9 @@
 # Quick Bookmarks Retrieval 快速书签检索
 
 一个简洁高效的 Chrome 扩展程序，帮助你快速检索和访问书签。通过优雅的界面设计和智能的搜索功能，让书签管理变得更加轻松。
-<img src="https://p26-juejin-sign.byteimg.com/tos-cn-i-k3u1fbpfcp/ee021556fa9f49dba5e1a39ccdc33fa0~tplv-k3u1fbpfcp-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY5rW35Yab:q75.awebp?rk3s=f64ab15b&x-expires=1738155253&x-signature=V9wIcXQiLJjnfVTCCI2pH0W4GU4%3D" />
+
+![image](https://github.com/user-attachments/assets/f699fd8e-f03d-405a-bdc7-9005905fde31)
+
 
 ## 功能特点
 
